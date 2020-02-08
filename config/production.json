@@ -1,4 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://bariqmbani:mendutm70@contactkeeper-sdmq9.mongodb.net/test?retryWrites=true&w=majority",
+	"mongoURI": "mongodb+srv://bariqmbani:mendutm7@contactkeeper-sdmq9.mongodb.net/test?retryWrites=true&w=majority",
 	"jwtSecret": "secret123"
 }
